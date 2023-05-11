@@ -10,6 +10,6 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 - 🎓 B.Sc., EE @ Amirkabir University of Technology (Tehran Polytechnic)
 - 🎓 M.Sc., Digital Electronic Systems @ Sharif University of Technology
-- 💻 I am Currently working as a Computer Vision and Machine Learning researcher at [IWE](http://iwe.sharif.edu) and also as a R&D researcher at [FardIran Co.](https://www.towzin.com/)
+- 💻 I am Currently working as a Computer Vision and Machine Learning R&D researcher at [FardIran Co.](https://www.towzin.com/)
 
 - 📫 How to reach me: ah.ghaffari94@gmail.com
