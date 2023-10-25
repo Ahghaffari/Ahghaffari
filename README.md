@@ -12,4 +12,4 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 - 🎓 M.Sc., Digital Electronic Systems @ Sharif University of Technology
 - 💻 I am Currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/)
 
-- 📫 How to reach me: ah.ghaffari94@gmail.com
+- 📫 How to reach me: amirhossein.ghaffari@oulu.fi
