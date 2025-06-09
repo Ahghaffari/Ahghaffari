@@ -7,6 +7,6 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/amirhosseinghf)
 [![Github](https://img.shields.io/github/followers/ahghaffari?label=Follow&style=social)](https://github.com/Ahghaffari)
 
-- 💻 I am Currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/) focusing on GNN, Spatio-temporal GNN and Temporal GNN development.
+- 💻 I am Currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/) focusing on AI development, mostly on GNN, Spatio-temporal GNN and Temporal GNN development.
 
 - 📫 How to reach me: amirhossein.ghaffari@oulu.fi
