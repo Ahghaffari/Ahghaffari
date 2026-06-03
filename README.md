@@ -8,5 +8,5 @@
 [![Github](https://img.shields.io/github/followers/ahghaffari?label=Follow&style=social)](https://github.com/Ahghaffari)
 
 - 🌐 Personal website: **[ahghaffari.github.io/amirhosseinghaffari](https://ahghaffari.github.io/amirhosseinghaffari/)**
-- 💻 I am currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/), focusing on AI development — mostly on GNNs, Spatio-Temporal GNNs, and Knowledge Graphs.
+- 💻 I am currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/), focusing on AI development — mostly on GNNs and Spatio-Temporal GNNs.
 - 📫 How to reach me: amirhossein.ghaffari@oulu.fi
