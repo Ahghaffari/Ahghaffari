@@ -1,6 +1,6 @@
 <h1> Amirhossein Ghaffari </h1>
 
-[![Website](https://img.shields.io/badge/-Website-3b82f6?style=flat&logo=githubpages&logoColor=white)](https://ahghaffari.github.io/amirhosseinghaffari/)
+[![Website](https://img.shields.io/badge/-Website-3b82f6?style=flat&logo=githubpages&logoColor=white)](https://ahghaffari.github.io)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinghaffari/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ah.ghaffari94@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=N6ROMtIAAAAJ)
