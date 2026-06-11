@@ -7,6 +7,6 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-9264-8681)
 [![Github](https://img.shields.io/github/followers/ahghaffari?label=Follow&style=social)](https://github.com/Ahghaffari)
 
-- 🌐 Personal website: **[ahghaffari.github.io/amirhosseinghaffari](https://ahghaffari.github.io/amirhosseinghaffari/)**
+- 🌐 Personal website: **[ahghaffari.github.io](https://ahghaffari.github.io)**
 - 💻 I am currently a Doctoral Researcher at the University of Oulu [UBICOMP](https://ubicomp.oulu.fi/), focusing on AI development — mostly on GNNs and Spatio-Temporal GNNs.
 - 📫 How to reach me: amirhossein.ghaffari@oulu.fi
